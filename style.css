@@ -2,3 +2,24 @@ body{
     font-family: 'Be Vietnam Pro', sans-serif;
     font-family: 'Lato', sans-serif;
 }
+h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.color-orange{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+    padding: 100px;
+    margin-bottom: 400px;
+}
+.link-button{
+    background-color: red;
+    padding: 10px 40px;
+    background-image: linear-gradient(red,tomato);
+    font-weight: 700;
+    color: whitesmoke;
+    border-radius: 5px;
+    text-decoration: none;
+}
